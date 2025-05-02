@@ -20,7 +20,7 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 
-## Website hosted successfully on vercel :- https://first-portfolio-eight-roan.vercel.app
+## Website hosted successfully on vercel : https://first-portfolio-eight-roan.vercel.app
 
 ### Continued development
 I would like to learn advanced tech skills and libraries like three.js which will help me create a beautiful 3D UI for my portfolio website.
